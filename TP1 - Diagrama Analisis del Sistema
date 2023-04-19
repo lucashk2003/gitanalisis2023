@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" modified="2023-04-19T18:09:32.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="pZJlmSR6Mp_VzOgPkfRJ" version="21.2.0" type="google">
+  <diagram name="Página-1" id="3hxbFSAcnnYpnW6DqEuU">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7TVaVpS_eZDUB3uJGRnq-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="120" y="60" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7TVaVpS_eZDUB3uJGRnq-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Sistema de&amp;nbsp;&lt;br&gt;Reservas&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="130" y="95" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7TVaVpS_eZDUB3uJGRnq-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="510" y="92.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="7TVaVpS_eZDUB3uJGRnq-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Agente&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="95" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7TVaVpS_eZDUB3uJGRnq-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.008;exitY=0.373;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="7TVaVpS_eZDUB3uJGRnq-1" target="7TVaVpS_eZDUB3uJGRnq-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="250" as="sourcePoint" />
+            <mxPoint x="470" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7TVaVpS_eZDUB3uJGRnq-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7TVaVpS_eZDUB3uJGRnq-3" target="7TVaVpS_eZDUB3uJGRnq-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="150" as="sourcePoint" />
+            <mxPoint x="470" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7TVaVpS_eZDUB3uJGRnq-9" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="75" y="310" width="215" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="7TVaVpS_eZDUB3uJGRnq-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Base de datos&lt;br&gt;de vuelos&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=#82b366;fillColor=#d5e8d4;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="7TVaVpS_eZDUB3uJGRnq-9">
+          <mxGeometry x="-15" y="-5" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7TVaVpS_eZDUB3uJGRnq-11" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="75" y="415" width="215" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="7TVaVpS_eZDUB3uJGRnq-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Base de datos&lt;br&gt;de vuelos&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=#82b366;fillColor=#d5e8d4;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="7TVaVpS_eZDUB3uJGRnq-11">
+          <mxGeometry x="-15" y="-5" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7TVaVpS_eZDUB3uJGRnq-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="325" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="7TVaVpS_eZDUB3uJGRnq-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Agente&lt;/font&gt;" style="text;strokeColor=#b85450;fillColor=#f8cecc;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="545" y="327.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7TVaVpS_eZDUB3uJGRnq-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="535" y="430" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="7TVaVpS_eZDUB3uJGRnq-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Agente&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="545" y="432.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7TVaVpS_eZDUB3uJGRnq-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7TVaVpS_eZDUB3uJGRnq-10" target="7TVaVpS_eZDUB3uJGRnq-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="300" as="sourcePoint" />
+            <mxPoint x="425" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7TVaVpS_eZDUB3uJGRnq-18" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Solicitud de vuelos&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="325" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7TVaVpS_eZDUB3uJGRnq-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Consideraciones del diagrama de contexto:&lt;br&gt;- Tiene que contener a los agentes, el sistema y en principio solo un proceso&lt;br&gt;el proceso padre&lt;br&gt;&lt;br&gt;- Las entidades externas no pueden estar interconectadas entre si tienen que&lt;br&gt;ser conectadas a traves del sistema, y no directamente&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-160" width="680" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="7TVaVpS_eZDUB3uJGRnq-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="535" y="360" as="sourcePoint" />
+            <mxPoint x="285" y="359" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7TVaVpS_eZDUB3uJGRnq-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;- Las flechas de los flujos de datos no pueden ser dobles tiene que haber una&lt;br&gt;flecha para la información que entra y otra flecha para la información que sale&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="680" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7TVaVpS_eZDUB3uJGRnq-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="450" as="sourcePoint" />
+            <mxPoint x="535" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7TVaVpS_eZDUB3uJGRnq-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.004;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7TVaVpS_eZDUB3uJGRnq-15" target="7TVaVpS_eZDUB3uJGRnq-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="335" y="390" as="sourcePoint" />
+            <mxPoint x="385" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7TVaVpS_eZDUB3uJGRnq-32" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;seleccion de vuelo mas reserva&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="335" y="410" width="146" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
