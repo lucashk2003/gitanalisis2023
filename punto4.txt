@@ -1,0 +1,13 @@
+4. 
+1)  ¿Cómo se relaciona el sistema de búsquedas de vuelos con el cliente y el agente?
+2)  ¿Qué falencias se encuentran en líneas generales?
+3)  ¿Usted cree que este sistema es eficiente para los clientes?
+4) ¿Los formularios para sacar pasajes con que datos cuentas?
+5)  ¿Cómo cliente/agente es mejor acceder a los vuelos disponibles o a las aerolíneas con cada uno de sus vuelos?
+6)  ¿Los pagos se informan inmediatamente a la base de datos? O ¿Cómo se manejan los mismos?
+7)  ¿Los  vuelos se reservan antes o después del pago?
+8)  ¿Cuántos pasajes puede sacar un cliente?
+9) ¿Para poder sacar el pasaje es necesario el dato del documento y el mismo no se puede repetir o no puede faltar?
+10) ¿En los datos requeridos desde qué edad está permitido viajar sin el permiso del tutor/padres ?
+11) ¿Todos los datos van a un almacén en común o cada uno tiene su propio almacén? 
+
