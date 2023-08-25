@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seleccionar Turno - Fecha y Hora</title>
+
+</head>
+<body>
+    {% if msg %}
+    <p class="msg">{{ msg }}</p>
+    {% endif %} 
+    
+    <div class="container">
+        <div class="row">
+            <div class = "Column" style="margin-top: 5%">
+                <h3>
+                    <strong>
+                    Eligir dia y hora para pedir un turno
+                    </strong>
+                    <hr>
+                </h3>
+
+                <form action="{{url_for('registrarForm')}}" method="POST" autocomplete="off">
+                    <label for="horainicio">Hora Inicio:</label>
+                    <input type="horainicio" id="horainicio" name="horainicio">
+                    
+                    <br>
+
+                    <label for="horafin">Hora Fin:</label>
+                    <input type="horafin" id="horafin" name="horafin">
+                    <br>
+
+                    <label for="idcliente">Nro. Cliente:</label>
+                    <input type="idcliente" id="idcliente" name="idcliente">
+                    <br>
+
+                    <!--<input type="date" id="horafin" name="horafin">-->
+                    <input type="submit" value="Cargar">
+
+                </form>
+            </div>
+
+        </div>
+        
+    </div>
+</body>
+</html>
