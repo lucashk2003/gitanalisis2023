@@ -13,7 +13,6 @@ def inicio():
 def registrarForm():
     msg =''
     if request.method == 'POST':
-        # idturno             = 7
         idcliente           = request.form['idcliente']
         horainicio          = request.form['horainicio']
         horafin             = request.form['horafin']
